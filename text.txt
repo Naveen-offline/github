@@ -1,1 +1,4 @@
-naveen nagarajan
+opencv-python
+mediapipe
+pyautogui
+numpy
